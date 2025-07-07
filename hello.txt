@@ -1,0 +1,8 @@
+Commands for git:
+
+git init
+git add
+git commit 
+git status
+git revert
+git restore
