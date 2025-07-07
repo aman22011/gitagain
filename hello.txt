@@ -6,3 +6,4 @@ git commit
 git status
 git revert
 git restore
+git pull origin main
